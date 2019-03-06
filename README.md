@@ -15,9 +15,9 @@ Matrix factorization + NN + ensemble
 Read final_project.pdf for more detail.
 
 ## Score
-| Track # | private score | Rank  |
-| ------- |:-------------:| -----:|
-| 1       | 1.198621      |  2 of 39 |
-| 2       | 21.431562     |  2 of 37 |
+| Track #   | private score |   Rank   |
+|:---------:|:-------------:|:--------:|
+|     1     |     1.198621  |  2 of 39 |
+|     2     |    21.431562  |  2 of 37 |
 
 Evaluation in Track 1 is Meab Absolute Error (MAE) and Mean Absolute Percentage Error (MAPE) in Track 2.

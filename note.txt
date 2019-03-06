@@ -1,0 +1,12 @@
+1.
+testing data中的
+851667cb42,04500567890
+不在training data也不在books
+
+2.
+training data中的
+92a48fec8e,2.912687.00.4,1
+不在testing data也不在books
+
+3.
+books.csv裡面有<0x92>

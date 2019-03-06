@@ -2,6 +2,8 @@
 
 Hi, we are Train完暑假沒train提早放.
 
+In this project, we need to predict users' book-ratings.
+
 Visit <a href="https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring/">mltech, spring 2018</a> or <a href="https://learner.csie.ntu.edu.tw/judge/ml18spring/track1/">learner judge system</a> for more info or background.
 
 Before starting, please unzip data/final_project to get raw data.
@@ -10,7 +12,7 @@ Before starting, please unzip data/final_project to get raw data.
 
 Matrix factorization + NN + ensemble
 
-/* TODO */
+Read final_project.pdf for more detail.
 
 ## Score
 | Track # | private score | Rank  |
